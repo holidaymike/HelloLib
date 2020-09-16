@@ -1,5 +1,5 @@
 package HelloLib
 
 func HelloString() string {
-	return "Hello World from dev6 version"
+	return "Hello World from v1.5 version"
 }
